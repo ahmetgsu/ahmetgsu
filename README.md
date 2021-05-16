@@ -11,11 +11,11 @@ Hi, I'm Ahmet Kenar, an enthusiastic self-taught and self-motivated Javascript w
 ### 📫 Get in touch
 
 - Linkedin: [linkedin.com/in/ahmet-kenar/](https://www.linkedin.com/in/ahmet-kenar/)
-- Email: [ahmet.gsu@gmail.com](ahmet.gsu@gmail.com)
+- Email: [ahmet.gsu@gmail.com](#)
 
 ### ⚡ My Github Stats
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmetgsu&count_private=true&show_icons=true)](https://github.com/ahmetgsu/github-readme-stats)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmetgsu&count_private=true&show_icons=true&theme=merko)](https://github.com/ahmetgsu/github-readme-stats)
 
 <!--
 **ahmetgsu/ahmetgsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
