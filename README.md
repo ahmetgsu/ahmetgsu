@@ -6,7 +6,7 @@ Hi, I'm Ahmet Kenar, an enthusiastic self-taught and self-motivated Javascript w
 
 - 🔭 I'm also involved to California-based project as a React developer
 
-🌱 I’m currently learning NodeJs, TypeScript and
+- 🌱 I’m currently learning NodeJs, TypeScript
 
 ### 📫 Get in touch
 
@@ -15,7 +15,7 @@ Hi, I'm Ahmet Kenar, an enthusiastic self-taught and self-motivated Javascript w
 
 ### ⚡ My Github Stats
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmetgsu)](https://github.com/ahmetgsu/github-readme-stats)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmetgsu&count_private=true&show_icons=true)](https://github.com/ahmetgsu/github-readme-stats)
 
 <!--
 **ahmetgsu/ahmetgsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
