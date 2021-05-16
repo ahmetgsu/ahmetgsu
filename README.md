@@ -6,7 +6,14 @@ Hi, I'm Ahmet Kenar, an enthusiastic self-taught and self-motivated Javascript w
 
 - 🔭 I'm also involved to California-based project as a React developer
 
-### My Github Stats
+🌱 I’m currently learning NodeJs, TypeScript and
+
+### 📫 Get in touch
+
+- Linkedin: [linkedin.com/in/ahmet-kenar/](https://www.linkedin.com/in/ahmet-kenar/)
+- Email: [ahmet.gsu@gmail.com](ahmet.gsu@gmail.com)
+
+### ⚡ My Github Stats
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmetgsu)](https://github.com/ahmetgsu/github-readme-stats)
 
