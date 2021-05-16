@@ -10,15 +10,8 @@ Hi, I'm Ahmet Kenar, an enthusiastic self-taught and self-motivated Javascript w
 
 ### 📫 Get in touch
 
-<a target="_blank" href="https://www.linkedin.com/in/ahmet-kenar/">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a target="_blank" href="mailto:ahmet.gsu@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-
-- ![Image of Linkedin](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg): [linkedin.com/in/ahmet-kenar/](https://www.linkedin.com/in/ahmet-kenar/)
-- Email: [ahmet.gsu@gmail.com](#)
+- Linkedin: [linkedin.com/in/ahmet-kenar/](https://www.linkedin.com/in/ahmet-kenar/)
+- Email:    <a target="_blank" href="mailto:ahmet.gsu@gmail.com">ahmet.gsu@gmail.com</a>
 
 ### ⚡ My Github Stats
 
