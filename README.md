@@ -17,7 +17,7 @@ I'm Ahmet Kenar, an enthusiastic self-taught and self-motivated Javascript web a
 
 ### ⚡ My Github Stats
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmetgsu&count_private=true&show_icons=true&theme=merko)](https://github.com/ahmetgsu/github-readme-stats)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmetgsu&count_private=true&show_icons=true&theme=merko)](https://github.com/ahmetgsu/ahmetgsu)
 
 ### ✨ Languages and Tools:
 
